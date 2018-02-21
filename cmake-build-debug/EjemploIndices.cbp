@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="EjemploIndices">
-				<Option output="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/EjemploIndices.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug"/>
+				<Option output="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/EjemploIndices.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 EjemploIndices"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 EjemploIndices"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="EjemploIndices/fast">
-				<Option output="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/EjemploIndices.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug"/>
+				<Option output="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/EjemploIndices.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,49 +53,49 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 EjemploIndices/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 EjemploIndices/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/Indice.cpp">
+		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/Indice.cpp">
 			<Option target="EjemploIndices"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/Indice.h">
+		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/Indice.h">
 			<Option target="EjemploIndices"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/Item.cpp">
+		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/Item.cpp">
 			<Option target="EjemploIndices"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/Item.h">
+		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/Item.h">
 			<Option target="EjemploIndices"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/main.cpp">
+		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/main.cpp">
 			<Option target="EjemploIndices"/>
 		</Unit>
-		<Unit filename="C:/Users/Carlos Molina/CLionProjects/EjemploIndices/CMakeLists.txt">
+		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
