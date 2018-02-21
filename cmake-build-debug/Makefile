@@ -176,6 +176,33 @@ Item.cpp.s:
 	$(MAKE) -f CMakeFiles\EjemploIndices.dir\build.make CMakeFiles/EjemploIndices.dir/Item.cpp.s
 .PHONY : Item.cpp.s
 
+Manejo.obj: Manejo.cpp.obj
+
+.PHONY : Manejo.obj
+
+# target to build an object file
+Manejo.cpp.obj:
+	$(MAKE) -f CMakeFiles\EjemploIndices.dir\build.make CMakeFiles/EjemploIndices.dir/Manejo.cpp.obj
+.PHONY : Manejo.cpp.obj
+
+Manejo.i: Manejo.cpp.i
+
+.PHONY : Manejo.i
+
+# target to preprocess a source file
+Manejo.cpp.i:
+	$(MAKE) -f CMakeFiles\EjemploIndices.dir\build.make CMakeFiles/EjemploIndices.dir/Manejo.cpp.i
+.PHONY : Manejo.cpp.i
+
+Manejo.s: Manejo.cpp.s
+
+.PHONY : Manejo.s
+
+# target to generate assembly for a file
+Manejo.cpp.s:
+	$(MAKE) -f CMakeFiles\EjemploIndices.dir\build.make CMakeFiles/EjemploIndices.dir/Manejo.cpp.s
+.PHONY : Manejo.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -218,6 +245,9 @@ help:
 	@echo ... Item.obj
 	@echo ... Item.i
 	@echo ... Item.s
+	@echo ... Manejo.obj
+	@echo ... Manejo.i
+	@echo ... Manejo.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

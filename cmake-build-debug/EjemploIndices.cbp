@@ -92,6 +92,12 @@
 		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/Item.h">
 			<Option target="EjemploIndices"/>
 		</Unit>
+		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/Manejo.cpp">
+			<Option target="EjemploIndices"/>
+		</Unit>
+		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/Manejo.h">
+			<Option target="EjemploIndices"/>
+		</Unit>
 		<Unit filename="C:/Users/Carlos Molina/Documents/GitHub/EjemploIndices/main.cpp">
 			<Option target="EjemploIndices"/>
 		</Unit>

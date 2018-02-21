@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/EjemploIndices.dir/main.cpp.obj"
   "CMakeFiles/EjemploIndices.dir/Indice.cpp.obj"
   "CMakeFiles/EjemploIndices.dir/Item.cpp.obj"
+  "CMakeFiles/EjemploIndices.dir/Manejo.cpp.obj"
   "EjemploIndices.pdb"
   "EjemploIndices.exe"
   "EjemploIndices.exe.manifest"
