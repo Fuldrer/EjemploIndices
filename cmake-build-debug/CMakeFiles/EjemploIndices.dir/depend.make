@@ -14,5 +14,6 @@ CMakeFiles/EjemploIndices.dir/Manejo.cpp.obj: ../Manejo.h
 
 CMakeFiles/EjemploIndices.dir/main.cpp.obj: ../Indice.h
 CMakeFiles/EjemploIndices.dir/main.cpp.obj: ../Item.h
+CMakeFiles/EjemploIndices.dir/main.cpp.obj: ../Manejo.h
 CMakeFiles/EjemploIndices.dir/main.cpp.obj: ../main.cpp
 
