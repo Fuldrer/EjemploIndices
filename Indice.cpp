@@ -3,3 +3,7 @@
 //
 
 #include "Indice.h"
+
+Indice::Indice() {
+    identidad = new char[4];
+}

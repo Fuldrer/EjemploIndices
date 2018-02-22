@@ -7,6 +7,7 @@
 
 class Indice {
 public:
+    Indice();
     char*identidad;
     int indice;
 };

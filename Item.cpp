@@ -3,3 +3,9 @@
 //
 
 #include "Item.h"
+
+Item::Item() {
+    nombre = new char[10];
+    apellido = new char[10];
+    identidad = new char[4];
+}

@@ -16,6 +16,7 @@ using namespace std;
 
 
 class Manejo {
+public:
     Indice ind[30];
     Item items[30];
     void escribir();

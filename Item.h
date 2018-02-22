@@ -8,10 +8,12 @@
 
 class Item {
 public:
+    Item();
     char*nombre;
     char*apellido;
     int edad;
     char*identidad;
+    int tamitem;
 };
 
 
