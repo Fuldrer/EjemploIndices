@@ -20,7 +20,7 @@ int main() {
     strcpy(reinterpret_cast<char*>(&items[0].edad),"21");
     strcpy(items[0].identidad,"0501");
     strcpy(ind[0].identidad,"0501");
-    //ind[0].indice = tamitem*pos-1;
+
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }

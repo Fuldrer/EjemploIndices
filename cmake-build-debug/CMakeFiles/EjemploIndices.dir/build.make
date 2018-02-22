@@ -33,19 +33,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2017.3.2\bin\cmake\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2017.3.3\bin\cmake\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2017.3.2\bin\cmake\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2017.3.3\bin\cmake\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Carlos Molina\CLionProjects\EjemploIndices"
+CMAKE_SOURCE_DIR = C:\Users\Carlos\Documents\Github\EjemploIndices
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\cmake-build-debug"
+CMAKE_BINARY_DIR = C:\Users\Carlos\Documents\Github\EjemploIndices\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/EjemploIndices.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/EjemploIndices.dir/flags.make
 
 CMakeFiles/EjemploIndices.dir/main.cpp.obj: CMakeFiles/EjemploIndices.dir/flags.make
 CMakeFiles/EjemploIndices.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Carlos Molina\CLionProjects\EjemploIndices\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/EjemploIndices.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EjemploIndices.dir\main.cpp.obj -c "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\EjemploIndices\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/EjemploIndices.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EjemploIndices.dir\main.cpp.obj -c C:\Users\Carlos\Documents\Github\EjemploIndices\main.cpp
 
 CMakeFiles/EjemploIndices.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EjemploIndices.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\main.cpp" > CMakeFiles\EjemploIndices.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\EjemploIndices\main.cpp > CMakeFiles\EjemploIndices.dir\main.cpp.i
 
 CMakeFiles/EjemploIndices.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EjemploIndices.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\main.cpp" -o CMakeFiles\EjemploIndices.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\EjemploIndices\main.cpp -o CMakeFiles\EjemploIndices.dir\main.cpp.s
 
 CMakeFiles/EjemploIndices.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/EjemploIndices.dir/main.cpp.obj.provides.build: CMakeFiles/EjemploInd
 
 CMakeFiles/EjemploIndices.dir/Indice.cpp.obj: CMakeFiles/EjemploIndices.dir/flags.make
 CMakeFiles/EjemploIndices.dir/Indice.cpp.obj: ../Indice.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Carlos Molina\CLionProjects\EjemploIndices\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/EjemploIndices.dir/Indice.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EjemploIndices.dir\Indice.cpp.obj -c "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\Indice.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\EjemploIndices\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/EjemploIndices.dir/Indice.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EjemploIndices.dir\Indice.cpp.obj -c C:\Users\Carlos\Documents\Github\EjemploIndices\Indice.cpp
 
 CMakeFiles/EjemploIndices.dir/Indice.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EjemploIndices.dir/Indice.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\Indice.cpp" > CMakeFiles\EjemploIndices.dir\Indice.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\EjemploIndices\Indice.cpp > CMakeFiles\EjemploIndices.dir\Indice.cpp.i
 
 CMakeFiles/EjemploIndices.dir/Indice.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EjemploIndices.dir/Indice.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\Indice.cpp" -o CMakeFiles\EjemploIndices.dir\Indice.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\EjemploIndices\Indice.cpp -o CMakeFiles\EjemploIndices.dir\Indice.cpp.s
 
 CMakeFiles/EjemploIndices.dir/Indice.cpp.obj.requires:
 
@@ -106,16 +106,16 @@ CMakeFiles/EjemploIndices.dir/Indice.cpp.obj.provides.build: CMakeFiles/EjemploI
 
 CMakeFiles/EjemploIndices.dir/Item.cpp.obj: CMakeFiles/EjemploIndices.dir/flags.make
 CMakeFiles/EjemploIndices.dir/Item.cpp.obj: ../Item.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Carlos Molina\CLionProjects\EjemploIndices\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/EjemploIndices.dir/Item.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EjemploIndices.dir\Item.cpp.obj -c "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\Item.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Carlos\Documents\Github\EjemploIndices\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/EjemploIndices.dir/Item.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\EjemploIndices.dir\Item.cpp.obj -c C:\Users\Carlos\Documents\Github\EjemploIndices\Item.cpp
 
 CMakeFiles/EjemploIndices.dir/Item.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EjemploIndices.dir/Item.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\Item.cpp" > CMakeFiles\EjemploIndices.dir\Item.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Carlos\Documents\Github\EjemploIndices\Item.cpp > CMakeFiles\EjemploIndices.dir\Item.cpp.i
 
 CMakeFiles/EjemploIndices.dir/Item.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EjemploIndices.dir/Item.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\Item.cpp" -o CMakeFiles\EjemploIndices.dir\Item.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Carlos\Documents\Github\EjemploIndices\Item.cpp -o CMakeFiles\EjemploIndices.dir\Item.cpp.s
 
 CMakeFiles/EjemploIndices.dir/Item.cpp.obj.requires:
 
@@ -144,7 +144,7 @@ EjemploIndices.exe: CMakeFiles/EjemploIndices.dir/build.make
 EjemploIndices.exe: CMakeFiles/EjemploIndices.dir/linklibs.rsp
 EjemploIndices.exe: CMakeFiles/EjemploIndices.dir/objects1.rsp
 EjemploIndices.exe: CMakeFiles/EjemploIndices.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Carlos Molina\CLionProjects\EjemploIndices\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable EjemploIndices.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Carlos\Documents\Github\EjemploIndices\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable EjemploIndices.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\EjemploIndices.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -163,6 +163,6 @@ CMakeFiles/EjemploIndices.dir/clean:
 .PHONY : CMakeFiles/EjemploIndices.dir/clean
 
 CMakeFiles/EjemploIndices.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Carlos Molina\CLionProjects\EjemploIndices" "C:\Users\Carlos Molina\CLionProjects\EjemploIndices" "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\cmake-build-debug" "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\cmake-build-debug" "C:\Users\Carlos Molina\CLionProjects\EjemploIndices\cmake-build-debug\CMakeFiles\EjemploIndices.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Carlos\Documents\Github\EjemploIndices C:\Users\Carlos\Documents\Github\EjemploIndices C:\Users\Carlos\Documents\Github\EjemploIndices\cmake-build-debug C:\Users\Carlos\Documents\Github\EjemploIndices\cmake-build-debug C:\Users\Carlos\Documents\Github\EjemploIndices\cmake-build-debug\CMakeFiles\EjemploIndices.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/EjemploIndices.dir/depend
 

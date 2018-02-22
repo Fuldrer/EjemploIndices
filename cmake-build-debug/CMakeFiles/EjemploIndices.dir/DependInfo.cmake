@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Carlos Molina/CLionProjects/EjemploIndices/Indice.cpp" "C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/CMakeFiles/EjemploIndices.dir/Indice.cpp.obj"
-  "C:/Users/Carlos Molina/CLionProjects/EjemploIndices/Item.cpp" "C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/CMakeFiles/EjemploIndices.dir/Item.cpp.obj"
-  "C:/Users/Carlos Molina/CLionProjects/EjemploIndices/main.cpp" "C:/Users/Carlos Molina/CLionProjects/EjemploIndices/cmake-build-debug/CMakeFiles/EjemploIndices.dir/main.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/EjemploIndices/Indice.cpp" "C:/Users/Carlos/Documents/Github/EjemploIndices/cmake-build-debug/CMakeFiles/EjemploIndices.dir/Indice.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/EjemploIndices/Item.cpp" "C:/Users/Carlos/Documents/Github/EjemploIndices/cmake-build-debug/CMakeFiles/EjemploIndices.dir/Item.cpp.obj"
+  "C:/Users/Carlos/Documents/Github/EjemploIndices/main.cpp" "C:/Users/Carlos/Documents/Github/EjemploIndices/cmake-build-debug/CMakeFiles/EjemploIndices.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
